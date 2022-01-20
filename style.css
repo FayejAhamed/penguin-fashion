@@ -1,29 +1,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
-.nav-bar{
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    align-items: center;
-    margin-top: 40px;
-}
-.nav-logo{
-    width: 291px;
-    height: 40px;
-}
-.nav-logo img{
-    width: 100%;
-}
-.nav-content{
-    display: flex;
-    flex-direction: row;
-}
-.nav-right{
+
+ 
+body{
     color: #3C3C3C;
     font-family: 'Roboto', sans-serif;
 
 }
-.nav-item{
-    list-style: none;
+.btn-color{
+ 
+    color: #FFFFFF;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+
+.header-color{
+    color: #FABE4C;
 }
